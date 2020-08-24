@@ -1,6 +1,6 @@
 {
   "functions": {
-    "/libcors-anywhere.js": {
+    "lib/cors-anywhere.js": {
       "includeFiles": "lib/**"
     }
   }
